@@ -1,0 +1,3 @@
+Muhammad Nabil Fadhila kelompok Gauss
+
+Penjelasan program: Program Weight Converter ini akan mengubah nilai yang kita masukkan dan mengubah satuannya yang awalnya Kg menjadi Lbs maupun sebaliknya
